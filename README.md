@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CareBridge NGO — Healthcare Support Web App
 
 CareBridge is a concept-level web application designed to help an NGO manage healthcare support requests and volunteer registrations.
@@ -22,3 +23,7 @@ NGOs often face high volumes of inquiries. This app automates the initial engage
 2. **Backend**: `cd backend && npm install && npm run dev` (Ensure `.env` matches your MySQL credentials).
 3. **Frontend**: `cd frontend && npm install && npm run dev`.
 4. **Access**: `/staff/login` for the management dashboard.
+=======
+# health-care-support-app
+A simple healthcare support prototype featuring patient registration and AI-inspired auto-summary generation.
+>>>>>>> 000d9197fe0f66dd3e8f3c1b3b48a5791acc2ee2
